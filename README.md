@@ -14,7 +14,6 @@ Foi criado como **exercício de aprendizado e prática de back-end**, mostrando 
 - PHP
 - HTML
 - CSS
-- (Opcional) JavaScript
 
 ---
 
